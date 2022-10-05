@@ -4,3 +4,37 @@
 .cat{
     width: 200px;
 }
+table td {
+    border: 1px solid #000
+}
+
+.pati{
+    text-align: center;
+}
+
+.semana td{
+    background-color: red;
+}
+
+.Hora {
+    background-color: aqua;
+}
+
+.sistemes{
+    background-color: blueviolet;
+}
+.seguretat{
+    background-color: orange;
+}
+.web{
+    background-color: green;
+}
+.EIE{
+    background-color: yellow;
+}
+.aplicacions{
+    background-color: yellowgreen;
+}
+.serveis{
+    background-color: aquamarine;
+}
